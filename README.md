@@ -29,7 +29,7 @@ Existing image generation models often require loading several additional networ
 
 Due to the limited resources, Photosp still has room for improvement. We will continue to optimize it, and hope it inspires more universal image-generation models. You can also easily fine-tune Photosp without worrying about designing networks for specific tasks; you just need to prepare the corresponding data, and then run the [script](#6-finetune). Imagination is no longer limited; everyone can construct any image-generation task, and perhaps we can achieve very interesting, wonderful, and creative things.
 
-If you have any questions, ideas, or interesting tasks you want Photosp to accomplish, feel free to discuss with us: 2906698981@qq.com, wangyueze@tju.edu.cn, zhengliu1026@gmail.com. We welcome any feedback to help us improve the model.
+If you have any questions, ideas, or interesting tasks you want Photosp to accomplish, feel free to discuss with us: vakilbetter6762@gmail.com. We welcome any feedback to help us improve the model.
 
 
 
