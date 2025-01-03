@@ -1,23 +1,7 @@
-<h1 align="center">OmniGen: Unified Image Generation</h1>
+<h1 align="center">Photosp: Unified Image Generation</h1>
 
 
-<p align="center">
-    <a href="https://vectorspacelab.github.io/OmniGen/">
-        <img alt="Build" src="https://img.shields.io/badge/Project%20Page-OmniGen-yellow">
-    </a>
-    <a href="https://arxiv.org/abs/2409.11340">
-            <img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2409.11340-b31b1b.svg">
-    </a>
-    <a href="https://huggingface.co/spaces/Shitao/OmniGen">
-        <img alt="License" src="https://img.shields.io/badge/HF%20Demo-🤗-lightblue">
-    </a>
-    <a href="https://huggingface.co/Shitao/OmniGen-v1">
-        <img alt="Build" src="https://img.shields.io/badge/HF%20Model-🤗-yellow">
-    </a>    
-    <a href="https://replicate.com/chenxwh/omnigen">
-        <img alt="Build" src="https://replicate.com/chenxwh/omnigen/badge">
-    </a>
-</p>
+
 
 <h4 align="center">
     <p>
